@@ -9,6 +9,7 @@
   "author": "Stefano T.",
   "license": "GPL-3.0-or-later",
   "dependencies": {
+    "react": "^16.13.1",
     "yarn": "^1.22.5"
   }
 }
