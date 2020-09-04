@@ -1,0 +1,14 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "First test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefano T.",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "yarn": "^1.22.5"
+  }
+}
